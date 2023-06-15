@@ -1,0 +1,11 @@
+{
+  "labels": [
+    { "name": "Drink can", "id": 1 },
+    { "name": "Glass bottle", "id": 2 },
+    { "name": "Other plastic bottle", "id": 3 },
+    { "name": "Clear plastic bottle", "id": 4 },
+    { "name": "Plastic bottle cap", "id": 5 },
+    { "name": "Plastic film", "id": 6 },
+    { "name": "Plastic straw", "id": 7 }
+  ]
+}
